@@ -3,4 +3,5 @@
 - Uses abstraction and object-orientated programming to represent Pokemon objects
 - Uses 2D arrays for the board state
 - Uses a linked list to add pokemon to the board
+
 Run Game.java to play!
